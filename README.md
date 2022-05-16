@@ -1,0 +1,2 @@
+# calcularResultado
+Created with CodeSandbox
